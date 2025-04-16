@@ -16,5 +16,3 @@ Passionate about building innovative web applications and exploring machine lear
 
 ## 🌱 Currently Learning
 Exploring advanced neural networks, signature recognition techniques, and synchronization systems for real-time applications.
-
-## 📫 Find my projects below and feel free to reach out for collaborations!
