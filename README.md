@@ -1,18 +1,22 @@
-# Hi there, I'm a Full-Stack Developer & ML Enthusiast 👋
+# Hi, I'm Satgun
 
-Passionate about building innovative web applications and exploring machine learning models. I create everything from responsive e-commerce platforms to intelligent data analysis tools.
+I'm a computer science student interested in the space between an idea and the system that makes it useful.
 
-## 🛠️ My Tech Stack
-- **Frontend:** React, TypeScript, Chakra UI, Tailwind CSS
-- **Backend:** Node.js, Express, MongoDB, RESTful APIs
-- **ML/AI:** TensorFlow, OpenCV, scikit-learn, Neural Networks
-- **Tools:** Git, CLI, Jupyter Notebooks, Vite
+I started with machine learning, but my interests have gradually expanded beyond models. I enjoy understanding how complex systems behave, finding the assumptions behind them, and turning rough ideas into tools that people can actually interact with. That has led me through industrial monitoring, medical imaging, language models, AI agents, developer tooling, and full-stack software.
 
-## 💻 What I Build
-- Full-stack MERN applications with responsive designs
-- Machine learning models for classification and recognition
-- CLI tools to improve developer workflows
-- Interactive platforms with real-time features
+I like going deep when a problem deserves it, but I also enjoy moving between layers: investigating the underlying idea, building the system around it, and improving how someone experiences the final result.
 
-## 🌱 Currently Learning
-Exploring advanced neural networks, signature recognition techniques, and synchronization systems for real-time applications.
+## Areas I'm exploring
+
+- Applied machine learning and computer vision
+- Medical imaging and model architecture
+- Large language models and AI agents
+- Developer tools and AI-assisted workflows
+- Backend and full-stack product engineering
+- Software systems that connect research with real use
+
+## Outside the code
+
+I study computer science at VIT Vellore, write about technical ideas and experiences, and spend a lot of time building things that begin as questions. Some become serious projects. Some become useful tools. Some simply teach me what not to build next.
+
+You can find more of my work on [GitHub](https://github.com/satgunsodhi) or connect with me on [LinkedIn](https://www.linkedin.com/in/satgunsodhi/).
