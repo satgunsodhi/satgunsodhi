@@ -1,4 +1,4 @@
-# Hi, I'm Satgun
+# Hi, I'm Satgun Sodhi
 
 I'm a computer science student interested in the space between an idea and the system that makes it useful.
 
@@ -19,4 +19,6 @@ I like going deep when a problem deserves it, but I also enjoy moving between la
 
 I study computer science at VIT Vellore, write about technical ideas and experiences, and spend a lot of time building things that begin as questions. Some become serious projects. Some become useful tools. Some simply teach me what not to build next.
 
-You can find more of my work on [GitHub](https://github.com/satgunsodhi) or connect with me on [LinkedIn](https://www.linkedin.com/in/satgunsodhi/).
+My interests are gradually moving toward broader software engineering, while staying connected to AI and systems that make software more capable.
+
+You can find more of my work on [GitHub](https://github.com/satgunsodhi?tab=repositories) or connect with me on [LinkedIn](https://www.linkedin.com/in/satgunsodhi/).
